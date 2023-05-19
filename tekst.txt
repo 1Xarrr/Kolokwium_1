@@ -1,0 +1,2 @@
+Git push:
+Git push jest poleceniem używanym w systemie kontroli wersji Git do przesyłania lokalnych zmian  na zdalne repozytorium.
